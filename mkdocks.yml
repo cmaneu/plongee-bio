@@ -1,0 +1,6 @@
+site_name: Plongée bio
+pages: 
+- Home: index.md
+- 'Fiches mémo':
+    - 'Les végétaux': fiches/vegetaux.md 
+theme: readthedocs
