@@ -3,5 +3,6 @@ pages:
 - 'Plongée bio': index.md
 - 'Fiches mémo':
     - 'Les végétaux': fiches/vegetaux.md
+    - 'Les spongiaires': fiches/spongiaires.md
 - 'Glossaire': glossaire/glossaire.md     
 theme: readthedocs
