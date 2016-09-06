@@ -8,11 +8,11 @@
  Mode de vie | Benthiques (algues visibles) ou pélagiques (phytoplancton)
  Alimentation | Via la photosynthèse
  Prédation | Base de la chaîne alimentaire <br/>-Bryozoaires <br/>-Mollusques <br/>-Poissons <br/>-L'homme
- Reproduction | Asexuée en bonnes conditions (stolon, spores) <br/> Sexuée en conditions difficiles
+ Reproduction | Asexuée en bonnes conditions ([stolon](../glossaire/glossaire.md#stolon), spores) <br/> Sexuée en conditions difficiles
  Association | A compléter
  Espèces protégées | - Posidonie (_Posidonia oceanica_) <br/>- Cymodocée (_Cymodocea nodosa_) <br/>- Zostère marine (_Zostera marina_)<br/>- Zostère naine (_Zostera noltii_)
 
- ## Principales espèces
+## Principales espèces
 
  **Algues**
 

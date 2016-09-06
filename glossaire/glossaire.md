@@ -2,7 +2,7 @@
 
 ## S
 
-### Stolon
+### Stolon <div id="stolon" />
 
 Organe végétal de multiplication végétative, sous forme de tige. Elle ne porte pas de feuilles.
 Chez certaines espèces - comme les ascidies - il permet la reproduction asexuée par bourgeonnement.
